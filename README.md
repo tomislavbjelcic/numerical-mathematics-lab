@@ -1,2 +1,1 @@
-# numerical-mathematics-lab
-Numerical Mathematics course laboratory exercises.
+https://www.fer.unizg.hr/predmet/nummat
